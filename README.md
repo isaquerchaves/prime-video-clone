@@ -1,5 +1,7 @@
 # Welcome to your Expo app 👋
 
+![WhatsApp Image 2024-06-21 at 11 27 49](https://github.com/isaquerchaves/prime-video-clone/assets/89978495/97e23ba5-7dbe-4c55-aba8-1f45d72dcab9)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
